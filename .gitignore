@@ -4,3 +4,6 @@
 /build/
 /InvadeEarthResources/dist/
 /dist/
+/.idea/
+*.iml
+/target/
